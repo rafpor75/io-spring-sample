@@ -1,0 +1,12 @@
+2018-11-14 21:37:59.287  INFO 7596 --- [main] i.s.s.IoSpringSampleApplicationTests     : Starting IoSpringSampleApplicationTests on LELLO-PC with PID 7596 (started by Lello in C:\Users\Lello\Documents\workspace-sts-3.9.4.RELEASE\io-spring-sample)
+2018-11-14 21:37:59.303  INFO 7596 --- [main] i.s.s.IoSpringSampleApplicationTests     : No active profile set, falling back to default profiles: default
+2018-11-14 21:37:59.428 DEBUG 7596 --- [main] o.s.w.c.s.GenericWebApplicationContext   : Refreshing org.springframework.web.context.support.GenericWebApplicationContext@25be7b63
+2018-11-14 21:38:06.569 DEBUG 7596 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/**/favicon.ico] in 'faviconHandlerMapping'
+2018-11-14 21:38:08.653  INFO 7596 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2018-11-14 21:38:08.724 DEBUG 7596 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1, ResponseBodyAdvice
+2018-11-14 21:38:09.010 DEBUG 7596 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 3 mappings in 'requestMappingHandlerMapping'
+2018-11-14 21:38:09.087 DEBUG 7596 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2018-11-14 21:38:09.143 DEBUG 7596 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2018-11-14 21:38:09.846  INFO 7596 --- [main] i.s.s.IoSpringSampleApplicationTests     : Started IoSpringSampleApplicationTests in 12.289 seconds (JVM running for 15.857)
+2018-11-14 21:38:10.715 DEBUG 7596 --- [Thread-2] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@25be7b63, started on Wed Nov 14 21:37:59 CET 2018
+2018-11-14 21:38:10.723  INFO 7596 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
